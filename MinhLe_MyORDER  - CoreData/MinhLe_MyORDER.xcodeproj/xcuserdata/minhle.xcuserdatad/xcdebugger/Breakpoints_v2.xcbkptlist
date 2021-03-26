@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DB25EDA-E040-4566-86D8-A6AD7F385187"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MinhLe_MyORDER/OrderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "OrderViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337 - 8f9bc88ac4428045"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MinhLe_MyORDER.OrderViewController.__deallocating_deinit"
+                  moduleName = "MinhLe_MyORDER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhle/Desktop/MAP523%20-%20iOS/MinhLe_MyORDER/MinhLe_MyORDER/OrderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337 - 8ba2574c7338f1a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MinhLe_MyORDER.OrderViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MinhLe_MyORDER.OrderViewController"
+                  moduleName = "MinhLe_MyORDER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhle/Desktop/MAP523%20-%20iOS/MinhLe_MyORDER/MinhLe_MyORDER/OrderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337 - 382d4cc2be01bf52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MinhLe_MyORDER.OrderViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MinhLe_MyORDER.OrderViewController"
+                  moduleName = "MinhLe_MyORDER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhle/Desktop/MAP523%20-%20iOS/MinhLe_MyORDER/MinhLe_MyORDER/OrderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337 - 97e801caf7d115e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MinhLe_MyORDER.OrderViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MinhLe_MyORDER.OrderViewController&gt;"
+                  moduleName = "MinhLe_MyORDER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhle/Desktop/MAP523%20-%20iOS/MinhLe_MyORDER/MinhLe_MyORDER/OrderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA0AE637-3B70-4AD9-A057-9D35331C1337 - 50263b7d703c9515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MinhLe_MyORDER.OrderViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MinhLe_MyORDER.OrderViewController&gt;"
+                  moduleName = "MinhLe_MyORDER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minhle/Desktop/MAP523%20-%20iOS/MinhLe_MyORDER/MinhLe_MyORDER/OrderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

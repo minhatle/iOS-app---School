@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MyOrder" representedClassName="MyOrder" syncable="YES" codeGenerationType="class">
+        <attribute name="coffeeSize" attributeType="String"/>
+        <attribute name="coffeeType" attributeType="String"/>
+        <attribute name="completion" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="dateCreated" attributeType="Date" defaultDateTimeInterval="638072520" usesScalarValueType="NO"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="id"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <elements>
+        <element name="MyOrder" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
